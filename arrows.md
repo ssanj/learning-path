@@ -21,6 +21,8 @@
 1. [A Small Example of Kleisli Arrows](http://underscore.io/blog/posts/2012/07/02/kleisli-arrows.html)
 1. CS: Kleisli Arrows [part-1](http://www.cakesolutions.net/teamblogs/2011/09/16/kleisli-arrows) [part-2](http://www.cakesolutions.net/teamblogs/2011/09/18/kleisli-arrows-ii)
 1. [Category Theory 3.2: Kleisli category - Bartosz Milewski](https://www.youtube.com/watch?v=i9CU4CuHADQ)
+1. [Composing Monadic Functions with Kleisli Arrows](http://sanj.ink/posts/2017-06-07-composing-monadic-functions-with-kleisli-arrows.html)
+1. [Reading Configuration with Kleisli Arrows](http://sanj.ink/posts/2017-06-12-reading-configuration-with-kleisli-arrows.html)
 
 #### Legend
 
