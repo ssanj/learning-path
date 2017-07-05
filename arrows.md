@@ -9,6 +9,8 @@
 1. [SO: How to use `split` on 2 Kleisli Arrows](https://stackoverflow.com/questions/26478993/how-to-use-split-on-2-kleisli-arrows)
 1. [Playing with Scala and Arrows](http://blog.tmorris.net/posts/playing-with-scala-and-arrows/)
 1. [Class up your config by Andy Scott](https://www.youtube.com/watch?v=Tx53JekeFIU)
+1. [HW: Understanding arrows](https://en.wikibooks.org/wiki/Haskell/Understanding_arrows#An_Arrow_can_multitask)
+1. [Programming with Arrows - John Hughes](http://www.cse.chalmers.se/~rjmh/afp-arrows.pdf)
 
 ## Kleisli
 
