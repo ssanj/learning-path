@@ -11,6 +11,7 @@
 1. [Class up your config by Andy Scott](https://www.youtube.com/watch?v=Tx53JekeFIU)
 1. [HW: Understanding arrows](https://en.wikibooks.org/wiki/Haskell/Understanding_arrows#An_Arrow_can_multitask)
 1. [Programming with Arrows - John Hughes](http://www.cse.chalmers.se/~rjmh/afp-arrows.pdf)
+1. [Arrows are strong profunctors - Bartosz Milewski](https://www.youtube.com/watch?v=hrNfkP8iKAs)
 
 ## Kleisli
 
